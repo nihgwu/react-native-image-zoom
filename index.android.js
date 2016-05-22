@@ -1,10 +1,9 @@
 import React, {
   PropTypes,
 } from 'react';
-import React,{
+import {
   requireNativeComponent,
   Component,
-  PropTypes,
   View,
 } from 'react-native';
 
